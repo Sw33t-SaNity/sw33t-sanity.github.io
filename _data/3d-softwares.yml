@@ -1,0 +1,11 @@
+- name: Blender
+  percentage: 70
+  color: success
+
+- name: Autodesk Maya
+  percentage: 40
+  color: success
+
+- name: Substance Designer
+  percentage: 30
+  color: secondary
