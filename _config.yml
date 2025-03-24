@@ -5,7 +5,7 @@ description         : >-
                       to squeezing out every last bit of SANITY 🐙
                       
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : ""      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : Sw33t-SaNity/sw33t-sanity.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -13,7 +13,10 @@ open_new_tab        : false                    # Opens external URLs in new tab 
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-mermaid
 
+mermaid:
+  src: /assets/js/vendor/mermaid.min.js
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -46,7 +49,7 @@ author:
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
-  bilibili          : 7440458
+# bilibili          : 7440458
 
 
 ### Posts ###

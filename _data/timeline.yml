@@ -1,17 +1,19 @@
-- title: Student, Michigan State University CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Michigan State University
+  from: 2014  
+  to: 2018  
+  description: Bachelor's degree in Computer Science with a minor in Game Design and Development.  
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Technical Artist, Hero Games  
+  from: 2021  
+  to: 2023  
+  description: Specialized in procedural content generation using Houdini, creating Houdini Digital Asset (HDA) tools for Unreal Engine to streamline asset iteration. Developed Python and Maya API add-ons to enhance motion capture and animation workflows. Built Unreal Engine pipeline tools for automation and asset auto-import validation.  
+
+- title: Technical Artist, Alibaba Tmall  
+  from: 2023  
+  to: 2023  
+  description: The team got disbanded before my probation period even ended. :D  
+
+- title: IT Specialist, Dongqian Lake CT Group  
+  from: 2023  
+  to: 2024  
+  description: Worked as an IT specialist at a state-owned enterprise, adapting to a formal environment with mostly paperwork. Designed and maintained the OA system on DingTalk, optimizing workflows and automating tasks with Python scripts. Managed digital transformation projects, cybersecurity assessments, and policy enforcement.  
