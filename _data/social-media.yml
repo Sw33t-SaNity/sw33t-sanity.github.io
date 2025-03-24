@@ -100,3 +100,14 @@ bilibili:
   url   : https://space.bilibili.com/
   icon  : fab fa-bilibili
   color : 00a1d6
+
+wechat:
+  url   : https://space.bilibili.com/
+  icon  : fab fa-weixin
+  color : 00a1d6
+
+
+qq:
+  url   : https://space.bilibili.com/
+  icon  : fab fa-qq
+  color : 00a1d6
