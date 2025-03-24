@@ -13,10 +13,10 @@ open_new_tab        : false                    # Opens external URLs in new tab 
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-mermaid
+#  - jekyll-mermaid
 
-mermaid:
-  src: /assets/js/vendor/mermaid.min.js
+# mermaid:
+#   src: /assets/js/vendor/mermaid.min.js
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
